@@ -88,6 +88,15 @@ function updateCartDisplay() {
       = ₹${itemTotal.toFixed(2)}
       <button onclick="removeFromCart('${name}')">❌</button>
     `;
+    // ✅ Clear "Already in cart" messages for removed items
+allProducts.forEach(product => {
+  if (!cart[product.name]) {
+    const incartText = document.getElementById(`incart-${product.name}`);
+    if (incartText) {
+      incartText.innerText = '';
+    }
+  }
+});
     cartItems.appendChild(div);
   });
   cartCount.innerText = count;
