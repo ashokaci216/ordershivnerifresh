@@ -73,6 +73,7 @@ function updateCartDisplay() {
   cartItems.innerHTML = '';
   let total = 0;
   let count = 0;
+
   Object.entries(cart).forEach(([name, item]) => {
     const itemTotal = item.price * item.quantity;
     total += itemTotal;
@@ -88,17 +89,19 @@ function updateCartDisplay() {
       = ₹${itemTotal.toFixed(2)}
       <button onclick="removeFromCart('${name}')">❌</button>
     `;
-    // ✅ Clear "Already in cart" messages for removed items
-allProducts.forEach(product => {
-  if (!cart[product.name]) {
-    const incartText = document.getElementById(`incart-${product.name}`);
-    if (incartText) {
-      incartText.innerText = '';
-    }
-  }
-});
     cartItems.appendChild(div);
   });
+
+  // ✅ Clear "Already in cart" messages for removed items
+  allProducts.forEach(product => {
+    if (!cart[product.name]) {
+      const incartText = document.getElementById(`incart-${product.name}`);
+      if (incartText) {
+        incartText.innerText = '';
+      }
+    }
+  });
+
   cartCount.innerText = count;
   document.getElementById('totalItems').innerText = `Total Items: ${count}`;
   document.getElementById('cart-total').innerText = `Grand Total: ₹${total.toFixed(2)}`;
