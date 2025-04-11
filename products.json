@@ -1,1 +1,728 @@
-[]
+
+[
+  {
+    "name": "WG Classic Veg Mayo 1Kg",
+    "price": 90,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "WG Tomato Ketchup Sachet8g(100 Scht)",
+    "price": 60,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "WG Classic Cheesy Sauce 1Kg",
+    "price": 143,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "WG Cheesy Jalapeno Sauce 1Kg",
+    "price": 153,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "WG Classic Pizza Pasta Sauce 1Kg",
+    "price": 109,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "WG Classic Chilli Garlic Sauce 1Kg",
+    "price": 143,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "WG Premium Veg Mayo 1Kg",
+    "price": 108,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "WG Premium Tandoori Mayo 1Kg",
+    "price": 204,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "WG Premium Makhani Mayo 1Kg",
+    "price": 204,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "WG Premium Honey Mustard 1kg",
+    "price": 164,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "WG Thousand Island Dressing 1kg",
+    "price": 174,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "WG Premium Chipotle Mayo 1kg",
+    "price": 194,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "WG Premium Garlic Mayo 1kg",
+    "price": 159,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "WG Premium Burger Mayo 1kg",
+    "price": 143,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "WG Premium Mexican Salsa 1kg",
+    "price": 143,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "Meal Time Salad Mayo 1kg",
+    "price": 90,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "Veeba Mexican Style Dressing 1kg",
+    "price": 185,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "Cuisinary Garlic Mayo 1kg",
+    "price": 180,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "Cuisinary Pizza Pasta 1kg",
+    "price": 175,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "Cuisinary BBQ Sauce 1kg",
+    "price": 180,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "Delmonte Creamy Cheese 1kg",
+    "price": 180,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "Delmonte Pizza Pasta Sauce 1kg",
+    "price": 180,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "Premium Delmonte Mayonnise",
+    "price": 185,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "Hillers Tomato Dip Sause 5Kg",
+    "price": 210,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "Hillers Dark Soya 5kg",
+    "price": 200,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "Hillers Tomato Ketchup 5kg",
+    "price": 250,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "Magic King Dip Sauce 4.5kg",
+    "price": 250,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "Winn Dark Soya Sauce 4.5kg",
+    "price": 240,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "Gc Red Chilli Sauce 5kg",
+    "price": 200,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "GC Schezwan Sauce 1kg",
+    "price": 130,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "GC Tomato Ketchup 1kg",
+    "price": 90,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "Chings Schezwan Sauce 1kg",
+    "price": 210,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "Winn Tomato Ketchup NONG 1kg",
+    "price": 90,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "Leong Chilli Sauce 680gm",
+    "price": 40,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "Leong Soya Sauce 700gm",
+    "price": 40,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "Hillers Vinegar 650ml",
+    "price": 30,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "Chings Chilli Sauce 680gm",
+    "price": 55,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "Chings Soya Sauce 750g",
+    "price": 55,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "Chings Green Chilli Sauce 680gm",
+    "price": 55,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "Cremica Tomato Ketchup Pouch 900g",
+    "price": 80,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "Kissan Dip Sauce 930g",
+    "price": 90,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "Kissan Tomato Ketchup 2kg",
+    "price": 220,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "Winn Chilli Sauce 8g (100scht)",
+    "price": 80,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "Winn Soya Sauce 8g (100scht)",
+    "price": 80,
+    "category": "Mayo and Sauces"
+  },
+  {
+    "name": "Mala's Blue Curacao Cordial 750 ml",
+    "price": 255,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Mala's Green Mint Mocktail 750 ml",
+    "price": 255,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Classic Mint Mojito 750 ml",
+    "price": 255,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Citrus Punch Mojito 750ml",
+    "price": 255,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Hazelnut Mocktail Syrup 750ml",
+    "price": 255,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Grenedine Mocktail Syrup 750ml",
+    "price": 255,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Rasberry Moctail Syrup 750ml",
+    "price": 255,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Peach Mocktail Syrup 750ml",
+    "price": 255,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Caramel Mocktail Syrup 750ml",
+    "price": 140,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Kokam Mocktail Syrup 750ml",
+    "price": 140,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Virgin Vanila Syrup 750ml",
+    "price": 175,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Irish Coffee Syrup 750ml",
+    "price": 255,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Ginger Lime Syrup 750ml",
+    "price": 140,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Passion Fruit Syrup 750ml",
+    "price": 255,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Grapes Mocktail Syrup 750ml",
+    "price": 255,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Lemon Ice Tea 750ml",
+    "price": 255,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Peach Ice Tea 750ml",
+    "price": 255,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Strawberry Syrup 750ml",
+    "price": 140,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Alphanso Mango Syrup 750ml",
+    "price": 140,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas PaanShot Syrup 750ml",
+    "price": 140,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Kalakhatta Syrup 750ml",
+    "price": 140,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Orange Syrup 750ml",
+    "price": 140,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Rose Syrup 750ml",
+    "price": 140,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Jeera Masala 750ml",
+    "price": 140,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Jeera Sikanji 750ml",
+    "price": 140,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Khus Syrup 750ml",
+    "price": 140,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Watermelon Syrup 750ml",
+    "price": 140,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Variyali Syrup 750ml",
+    "price": 140,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Pineapple Syrup 750ml",
+    "price": 140,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Mala's Kacha Aam Syrup 750ml",
+    "price": 140,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Kacha Aam Syrup 750 ml",
+    "price": 140,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Blueberry Crush 1 ltr",
+    "price": 368,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Strawberry Crush 1 ltr",
+    "price": 204,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Guava Crush 1ltr",
+    "price": 204,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Mango Crush 1ltr",
+    "price": 204,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Blueberry Crush 1ltr",
+    "price": 368,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Green Apple Crush 1ltr",
+    "price": 204,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Strawberry Crush 1ltr",
+    "price": 204,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Kiwi Crush 1ltr",
+    "price": 238,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Butter Scotch 1ltr",
+    "price": 204,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Orange Crush 1ltr",
+    "price": 204,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Malas Pineapple Crush 1ltr",
+    "price": 204,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Manama Lime&Mint Mojito 1ltr",
+    "price": 336,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Manama Blue Curacao 1ltr",
+    "price": 336,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Manama Pinacolada 1ltr",
+    "price": 264,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Manama Green Apple Syrup 750ml",
+    "price": 264,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Barisco Chilli Guava 775 ml",
+    "price": 360,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Manama Strawberry Crush 1ltr",
+    "price": 204,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "GC Green Mint Mojito 750 ml",
+    "price": 230,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "GC Blue Curacao 750 ml",
+    "price": 230,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "GC Chocolate Syrup 1.3ltr",
+    "price": 190,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Delmonte Chocolate Syrup 1.3ltr",
+    "price": 220,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Hersheys Choc Syrup 1.3kg",
+    "price": 370,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Hersheys Choc Syrup 623g",
+    "price": 210,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Mojee Chilli Guava 1ltr",
+    "price": 450,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Frappe powder Mojee 1kg",
+    "price": 420,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Hillers Schezwan Chutney 1kg",
+    "price": 130,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "GC Schezwan Sauce 1kg",
+    "price": 130,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Barisco Chilli Guava 775ml",
+    "price": 385,
+    "category": "Syrup & Chocolate"
+  },
+  {
+    "name": "Chefys Chilli Flakes Sachet (150 pcs)",
+    "price": 80,
+    "category": "Herb & Seasoning"
+  },
+  {
+    "name": "Chefys Oregano Sachet 7gm",
+    "price": 80,
+    "category": "Herb & Seasoning"
+  },
+  {
+    "name": "Piri Piri Sprinkle Cheyfs 250gm",
+    "price": 130,
+    "category": "Herb & Seasoning"
+  },
+  {
+    "name": "Big Bell Chilli flakes 1kg",
+    "price": 340,
+    "category": "Herb & Seasoning"
+  },
+  {
+    "name": "Big Bell Oregano Oregano Herb 1kg",
+    "price": 250,
+    "category": "Herb & Seasoning"
+  },
+  {
+    "name": "Cuisinary Oregano Sprinkle 500gm",
+    "price": 270,
+    "category": "Herb & Seasoning"
+  },
+  {
+    "name": "Cuisinary Peri Peri Sprinkle 500gm",
+    "price": 220,
+    "category": "Herb & Seasoning"
+  },
+  {
+    "name": "Cuisinary Chilli Flakes Sprinkle 500gm",
+    "price": 230,
+    "category": "Herb & Seasoning"
+  },
+  {
+    "name": "Cuisinary Extra Hot N Spicy 500gm",
+    "price": 190,
+    "category": "Herb & Seasoning"
+  },
+  {
+    "name": "Cuisinary Peri Peri Marinade 500gm",
+    "price": 250,
+    "category": "Herb & Seasoning"
+  },
+  {
+    "name": "Cuisinary Cajun Breading 1kg",
+    "price": 280,
+    "category": "Herb & Seasoning"
+  },
+  {
+    "name": "Idea Hakka Noddles (6*800gm)",
+    "price": 320,
+    "category": "Noodles & Other"
+  },
+  {
+    "name": "Penne Pasta 500gm",
+    "price": 65,
+    "category": "Noodles & Other"
+  },
+  {
+    "name": "Macroni Pasta 500gm",
+    "price": 65,
+    "category": "Noodles & Other"
+  },
+  {
+    "name": "Fussili Pasta 500gm",
+    "price": 65,
+    "category": "Noodles & Other"
+  },
+  {
+    "name": "Spagetti Pasta 500gm",
+    "price": 80,
+    "category": "Noodles & Other"
+  },
+  {
+    "name": "Hillers Veg Hakka Noodle 800gm",
+    "price": 80,
+    "category": "Noodles & Other"
+  },
+  {
+    "name": "GC Hakka Noodle 1kg",
+    "price": 100,
+    "category": "Noodles & Other"
+  },
+  {
+    "name": "Nachos pkt 200gm",
+    "price": 80,
+    "category": "Noodles & Other"
+  },
+  {
+    "name": "Tortilla 8 inch",
+    "price": 80,
+    "category": "Noodles & Other"
+  },
+  {
+    "name": "Tortilla 10 inch",
+    "price": 120,
+    "category": "Noodles & Other"
+  },
+  {
+    "name": "Tortilla 6 inch",
+    "price": 70,
+    "category": "Noodles & Other"
+  },
+  {
+    "name": "Jalepeno 3kg",
+    "price": 285,
+    "category": "Noodles & Other"
+  },
+  {
+    "name": "Black Olives slice 3kg",
+    "price": 750,
+    "category": "Noodles & Other"
+  },
+  {
+    "name": "Black Slice Olives 450gm",
+    "price": 160,
+    "category": "Noodles & Other"
+  },
+  {
+    "name": "Green Slice Olives 450gm",
+    "price": 160,
+    "category": "Noodles & Other"
+  },
+  {
+    "name": "Habit Extra Virgin Olive Oil 1ltr",
+    "price": 1200,
+    "category": "Noodles & Other"
+  },
+  {
+    "name": "Jivo Pomace Olive Oil 1ltr",
+    "price": 440,
+    "category": "Noodles & Other"
+  },
+  {
+    "name": "HYFUN French Fries 9mm 2.5kg",
+    "price": 320,
+    "category": "Frozen"
+  },
+  {
+    "name": "Hyfun Burger Patty 1kg",
+    "price": 200,
+    "category": "Frozen"
+  },
+  {
+    "name": "Chill Fill French Fries 2.5kg",
+    "price": 300,
+    "category": "Frozen"
+  },
+  {
+    "name": "Balaji veggies finger  1kg",
+    "price": 240,
+    "category": "Frozen"
+  },
+  {
+    "name": "Veg Momo 25pcs",
+    "price": 130,
+    "category": "Frozen"
+  },
+  {
+    "name": "Nandini Mozrella 1kg",
+    "price": 430,
+    "category": "Cheese"
+  },
+  {
+    "name": "Nandini Processecd Cheese Block 1kg",
+    "price": 480,
+    "category": "Cheese"
+  },
+  {
+    "name": "Nandini Mozzrella Blend  1kg",
+    "price": 450,
+    "category": "Cheese"
+  },
+  {
+    "name": "Derista Processed  Slice  51 Slices",
+    "price": 370,
+    "category": "Cheese"
+  },
+  {
+    "name": "Derista Sandwich Slice  51 Slices",
+    "price": 340,
+    "category": "Cheese"
+  },
+  {
+    "name": "Britannia Cheese Slice 51 Slices",
+    "price": 385,
+    "category": "Cheese"
+  },
+  {
+    "name": "Cheese slice Nandini 50 slices",
+    "price": 350,
+    "category": "Cheese"
+  },
+  {
+    "name": "Derista Mozrella 1kg",
+    "price": 460,
+    "category": "Cheese"
+  },
+  {
+    "name": "Mozrella Blend Britinnia 1kg",
+    "price": 480,
+    "category": "Cheese"
+  }
+]
